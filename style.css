@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500,300);
+@import url(https://fonts.googleapis.com/css?family=Domine:400,700);
+
+body{
+    font-family: 'Domine', sans-serif;
+    font-size: 25px; 
+}
+
+/* Header */
+.header, .footer {
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #999999;
+}
+
+h3.text-muted a {
+    text-decoration: none;
+    color: #999999;
+}
+h3.text-muted a:hover {
+    text-decoration: none;
+    color: #4e2a84;
+}
+
+.sub {
+    font-size: 20px;
+    color: #4e2a84;
+}
+
+/* Content */
+.content {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.img-rounded {
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+}
+
+img {
+    border: 0;
+}
+
+.content p.lead {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.content p {
+    font-family:'Domine';
+    font-size: 18px;
+}
+
+p.lead a:hover {
+    text-decoration: none;
+    color: #999999;
+}
+
+/* Footer */
+
+.footer {
+    border-top: 1px solid #e5e5e5;
+}
