@@ -106,5 +106,13 @@ p.fabout a:hover {
 /* Northwestern */ 
 .northwestern {
     margin: 20px;
-    padding-left: 40px;
+}
+
+.nu_logo {
+    width: 75%;
+}
+
+.title {
+    font-family: 'Ubuntu';
+    color: #4e2a84;
 }
