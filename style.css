@@ -108,6 +108,16 @@ p.fabout a:hover {
     margin: 20px;
 }
 
+h3.resume a {
+    text-decoration: none;
+    color: #4e2a84;
+}
+
+h3.resume a:hover {
+    text-decoration: none;
+    color: #999999;
+}
+
 .nu_logo {
     width: 75%;
 }
@@ -116,3 +126,5 @@ p.fabout a:hover {
     font-family: 'Ubuntu';
     color: #4e2a84;
 }
+
+
