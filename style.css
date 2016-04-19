@@ -31,17 +31,20 @@ h3.text-muted a:hover {
 /* Content */
 .content {
     margin-top: 40px;
-    margin-bottom: 40px;
 }
 
 .img-rounded {
     border-radius: 20px;
-    height: 80%;
-    width: 80%;
+    height: 95%;
+    width: 95%;
 }
 
 img {
     border: 0;
+}
+
+.avatar_side {
+    padding-left: 20px;
 }
 
 .content p.lead {
@@ -54,6 +57,19 @@ img {
     font-size: 18px;
 }
 
+/* Icon */
+.logo {
+    margin-bottom: 10px;
+}
+
+.icon {
+    width: 30%;
+}
+
+.icon_group {
+    padding-left: 40px;
+    width: 200px;
+}
 
 /* Footer */
 .footer {
