@@ -161,3 +161,27 @@ h3.resume a:hover {
     font-family: 'Ubuntu';
     color: #4e2a84;
 }
+
+/* Life */
+.life {
+    margin: 10px 0 10px 0;
+}
+
+.life_con {
+    padding-left: 20px;
+}
+
+.life_con p {
+    font-family: 'Domine';
+    font-size: 18px;
+}
+
+.life_con a {
+    color: #4e2a84;
+}
+
+.life_con a:hover {
+    text-decoration: none;
+    color: #999999;
+}
+
